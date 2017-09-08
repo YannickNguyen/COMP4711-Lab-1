@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "I can't wait to finish this semester"
+        echo "I can't wait to finish this semester!"
         ?>
     </body>
 </html>
